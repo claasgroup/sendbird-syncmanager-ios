@@ -16,6 +16,6 @@ let package = Package(
         // .package(url: /* package url */, from: "1.0.0"),
     ],
     targets: [
-        .binaryTarget(name: "SendBirdSyncManager", url: "https://github.com/claasgroup/sendbird-syncmanager-ios/releases/download/v1.1.39/SendBirdSyncManager.zip", checksum: "80dcede9f0c05bd4748fe7caa8975576e89fe36386905a9b36dbc8421f6d4fe1"),
+        .binaryTarget(name: "SendBirdSyncManager", url: "https://github.com/claasgroup/sendbird-syncmanager-ios/releases/download/v1.1.40/SendBirdSyncManager.zip", checksum: "a941f1deaa7588868dd109ab8d1fa4489db897e21085a605512709d1fb8eddad"),
     ]
 )
